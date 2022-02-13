@@ -4,7 +4,7 @@ Author: Yanpeng Mei
 
 C environment: Visual Studio 2022
 
-Started on: 14. Feb. 2022(will be done in 1.5 months)
+Started on: 14. Feb. 2022(will be done in a month)
 
 These programs are about my thesis "Path optimization when interpolating in Numerical Controls"
 
