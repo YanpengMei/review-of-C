@@ -1,5 +1,3 @@
-﻿#include <stdio.h>
-
 int * findspan(int n, int p, double u[], double U[])
 {
     /*
@@ -42,8 +40,13 @@ int * findspan(int n, int p, double u[], double U[])
     return span1;
 }
 
-    /*
-    // test of findspan
+/*
+// test of findspan
+#include <stdio.h>
+#include "linspace10.h"
+#include "findspan.h"
+int main()
+{
     int n = 5;
     int p = 2;
     double U[9] = {0, 0, 0, 0.25, 0.5, 0.75, 1, 1, 1};
@@ -69,4 +72,6 @@ int * findspan(int n, int p, double u[], double U[])
         printf("%d\n", t3[i]);
     }
     // t3 should be[2 2 2 3 3 4 4 5 5 5]
-    */
+    return 0
+}
+*/
