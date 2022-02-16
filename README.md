@@ -14,4 +14,4 @@ This program was originally done in Matlab, but now I will rewrite part of it in
 
 This short version is almost the same as Python version
 
-It's realy funny to do such a work by using C......
+It's realy funny to do such a work by using c
