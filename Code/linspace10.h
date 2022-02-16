@@ -12,12 +12,13 @@ double* linspace10(double x1, double x2)
 }
 
 
-/* test of 'linspace10'
+/* 
+// test of linspace10
 #include <stdio.h>
 #include "linspace10.h"
 int main()
 {
-double x1 = 0;
+        double x1 = 0;
 	double x2 = 1;
 	int i = 0;
 	double *t1;
