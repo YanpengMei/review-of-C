@@ -28,7 +28,6 @@ int main()
 	{
 		printf("*(t1 + %d) : %f\n", i, *(t1 + i));
 	}
-	*/
 	return 0;
 }
 */
