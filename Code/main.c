@@ -41,7 +41,7 @@ int* findspan(int n, int p, double u[], int num_u, double U[], int num_U)
 
 	int* span1;
 	span1 = (int*)malloc(sizeof(int) * num_u);
-	int temp2;
+	int temp2 = 0;
 	int i = 0;
 	int j = 0;
 
