@@ -1,4 +1,4 @@
-# review of C language
+# Review of C language
 
 Author: Yanpeng Mei
 
@@ -18,6 +18,8 @@ This short version is almost the same as Python version
 
 1. linspace - just like the function in Matlab or Python(numpy)
 
-2. findspan - find the knot span
+2. findspan - find the knot span index
+
+3. basisfun - basis function for B-Spline(this will be the next)
 
 to be continued...
