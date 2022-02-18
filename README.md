@@ -14,4 +14,10 @@ This program was originally done in Matlab, but now I will rewrite part of it in
 
 This short version is almost the same as Python version
 
-It's realy funny to do such a work by using c
+# Function list
+
+1. linspace - just like the function in Matlab or Python(numpy)
+
+2. findspan - find the knot span
+
+to be continued...
