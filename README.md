@@ -10,4 +10,4 @@ I will upload the whole project after finishing all the functions.
 
 These programs show the optimization of a B-spline.(Case 1: minimize the curvature. Case 2: minimize the length)
 
-Just to get a review of this language.
+I am doing this in order to get a review of this language.
