@@ -429,7 +429,7 @@ int main()
 	*/
 
 
-
+        /*
 	// 5. test of bspderiv
     int i, j;
 	int p = 3;
@@ -465,8 +465,8 @@ int main()
 		printf("d_U[%d] is %f\n", j, d_U[j]);
 	}
 	// d_cp should be {{90,45}, {45,-45}, {30,30}, {45,-45}, {90,45}}
-    // d_U should be [0.   0.   0.   0.33333333    0.66666667    1.    1.   1.]
-	
+        // d_U should be [0.   0.   0.   0.33333333    0.66666667    1.    1.   1.]
+	*/
 
 
 
