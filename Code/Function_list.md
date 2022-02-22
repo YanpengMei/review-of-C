@@ -8,6 +8,8 @@
 
 4. bspeval - evaluate B-Spline at parametric points
 
-5. bspderiv - B-Spline derivative(this will be the next)
+5. bspderiv - B-Spline derivative
+
+6. a1_length(calculate the length of B-Spline. This will be the next)
 
 to be continued...
