@@ -11,5 +11,3 @@
 5. bspderiv - B-Spline derivative
 
 6. a1_length - calculate the length of B-Spline
-
-7. a2_curvature(calculate the curvature of B-Spline at the given sampling point. This will be the next)
