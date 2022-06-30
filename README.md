@@ -1,4 +1,4 @@
-# Review of C language
+# Review of C
 
 Author: Yanpeng Mei
 
